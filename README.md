@@ -91,7 +91,7 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 - Qanunvericilik və tənzimləmə tələblərinin təmin edilməsi
 - *İstinadlar: Harvard Business School - "AI Ethics" kursu²⁴; Stanford HAI - "AI Ethics and Society"²⁵; MIT - "The Ethics of AI"²⁶; Oxford Internet Institute - "AI Governance"²⁷; Cambridge Judge Business School - "Technology Policy"²⁸*
 
-> **Qeyd**: AI etikası sahəsində Russell (2019) "Human Compatible" əsərində alignment problem-i müəyyənləşdirmişdir²⁹. European Journal of Information Systems-də Winfield və Jirotka (2018) Ethical AI governance framework-ü təqdim etmişlər³⁰. IEEE Standards Association-un "Ethically Aligned Design" sənədi bu sahədə əsas təlimat hesab olunur³¹.
+> **Qeyd**: AI etikası sahəsində Russell (2019) "Human Compatible" əsərindən alignment problem-i müəyyənləşdirmişdir²⁹. European Journal of Information Systems-də Winfield və Jirotka (2018) Ethical AI governance framework-ü təqdim etmişlər³⁰. IEEE Standards Association-un "Ethically Aligned Design" sənədi bu sahədə əsas təlimat hesab olunur³¹.
 
 #### 💼 **AI Biznes Modelləri**
 - AI əsaslı biznes modellərinin yaradılması
@@ -114,7 +114,132 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 | **Həftəlik yük** | 45 akademik saat |
 | **Auditoriya saatları** | 12-16 akademik saat |
 
-### 3.2 Fənlərin Bölgüsü
+### 3.2 📊 **İnteraktiv Kurs Xəritəsi**
+
+```mermaid
+flowchart TD
+    A[🎓 Giriş Səviyyə] --> B[Semestr 1]
+    B --> C[Semestr 2]
+    C --> D[Semestr 3]
+    D --> E[Semestr 4]
+    E --> F[🎯 Məzun]
+    
+    B --> B1[📚 Tədqiqat Metodları<br/>6 AKTS]
+    B --> B2[✍️ Akademik Yazı<br/>6 AKTS]
+    B --> B3[📋 Layihə İdarəsi<br/>6 AKTS]
+    B --> B4[📊 Tədqiqat Analitikası<br/>6 AKTS]
+    B --> B5[🤖 AI Giriş<br/>6 AKTS]
+    
+    C --> C1[🧠 Machine Learning<br/>8 AKTS]
+    C --> C2[📈 Big Data Analytics<br/>8 AKTS]
+    C --> C3[⚡ AI Strategiya<br/>6 AKTS]
+    C --> C4[🔮 Proqnozlaşdırma<br/>6 AKTS]
+    
+    D --> D1[🏢 Avtomatlaşdırma<br/>6 AKTS]
+    D --> D2[⚖️ AI Etikası<br/>4 AKTS]
+    D --> D3[💳 Fintech AI<br/>6 AKTS]
+    D --> D4[🛒 E-commerce AI<br/>6 AKTS]
+    D --> D5[👁️ Seçmə Fənlər<br/>8 AKTS]
+    D --> D6[🧪 Elmi-Pedaqoji Təcrübə<br/>6 AKTS]
+    
+    E --> E1[🔬 Elmi Tədqiqat<br/>6 AKTS]
+    E --> E2[📝 Dissertasiya<br/>18 AKTS]
+    
+    F --> F1[💼 AI Product Manager]
+    F --> F2[📊 Data Science Manager]
+    F --> F3[🚀 AI Entrepreneur]
+    F --> F4[🎓 PhD Studies]
+    
+    style A fill:#e1f5fe
+    style F fill:#c8e6c9
+    style B fill:#fff3e0
+    style C fill:#fce4ec
+    style D fill:#f3e5f5
+    style E fill:#e8f5e8
+```
+
+### 3.3 🎯 **Səriştələrin İnkişaf Xəritəsi**
+
+```mermaid
+graph LR
+    A[Başlanğıc<br/>Səviyyə] --> B[Əsas<br/>Səviyyə]
+    B --> C[Təcrübəli<br/>Səviyyə]
+    C --> D[Ekspert<br/>Səviyyə]
+    
+    A --> A1[📚 Fundamental<br/>Bilik]
+    A --> A2[🔤 Teminologiya]
+    A --> A3[💻 Əsas Alətlər]
+    
+    B --> B1[🧮 Statistika]
+    B --> B2[🐍 Python/R]
+    B --> B3[📊 Data Viz]
+    B --> B4[🤖 ML Alqoritmləri]
+    
+    C --> C1[🧠 Deep Learning]
+    C --> C2[☁️ Cloud Platforms]
+    C --> C3[📈 Biznes Analitika]
+    C --> C4[🏗️ AI Arxitektura]
+    
+    D --> D1[🎯 AI Strategiya]
+    D --> D2[👥 Team Leadership]
+    D --> D3[💼 Biznes Development]
+    D --> D4[🌍 Industry Expert]
+    
+    style A fill:#ffcdd2
+    style B fill:#fff9c4
+    style C fill:#dcedc8
+    style D fill:#c8e6c9
+```
+
+### 3.4 🛠️ **AI Alətləri Müqayisə Matrisi**
+
+```mermaid
+quadrantChart
+    title AI Tools Effectiveness vs Learning Curve
+    x-axis Low Learning Curve --> High Learning Curve
+    y-axis Low Effectiveness --> High Effectiveness
+    
+    Tableau: [0.2, 0.7]
+    Power BI: [0.25, 0.65]
+    Excel: [0.1, 0.4]
+    Python: [0.6, 0.9]
+    R: [0.7, 0.85]
+    TensorFlow: [0.8, 0.95]
+    PyTorch: [0.75, 0.9]
+    AutoML: [0.3, 0.6]
+    AWS SageMaker: [0.5, 0.8]
+    Google Colab: [0.35, 0.7]
+```
+
+### 3.5 📈 **Karyera İnkişaf Yolu**
+
+```mermaid
+sankey-beta
+    Student,Junior Data Analyst,15
+    Student,Business Analyst,10
+    Student,AI Intern,8
+    
+    Junior Data Analyst,Senior Data Analyst,12
+    Junior Data Analyst,ML Engineer,8
+    Business Analyst,Business Intelligence,7
+    Business Analyst,Product Manager,6
+    AI Intern,AI Specialist,5
+    
+    Senior Data Analyst,Data Science Manager,8
+    ML Engineer,Senior ML Engineer,6
+    ML Engineer,AI Research Scientist,4
+    Business Intelligence,BI Manager,5
+    Product Manager,AI Product Manager,4
+    AI Specialist,AI Consultant,3
+    
+    Data Science Manager,Chief Data Officer,3
+    Senior ML Engineer,AI Team Lead,4
+    AI Research Scientist,Principal Scientist,2
+    AI Product Manager,VP of AI,2
+    AI Consultant,AI Strategy Director,2
+```
+
+### 3.6 Fənlərin Bölgüsü
 
 #### 🤖 **İxtisaslaşma Fənləri (Məcburi)**
 
@@ -467,6 +592,20 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 | **Beynəlxalq təcrübə** | 40% | 30% |
 | **Startup quranlar** | 15% | 10% |
 
+#### 📈 **Performance Trends Visualization**
+
+```mermaid
+xychart-beta
+    title "Program Performance Trends (2020-2024)"
+    x-axis [2020, 2021, 2022, 2023, 2024]
+    y-axis "Percentage" 0 --> 100
+    
+    line "Employment Rate" [85, 87, 90, 93, 95]
+    line "International Experience" [25, 28, 32, 37, 40]
+    line "PhD Continuation" [18, 20, 22, 24, 25]
+    line "Startup Formation" [8, 10, 12, 14, 15]
+```
+
 #### 🎯 **Tələbə Razılığı (2024 Sorğusu)**
 
 | **Kateqoriya** | **Razılıq dərəcəsi** |
@@ -476,6 +615,76 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 | **Karyera dəstəyi** | 4.6/5.0 |
 | **Texniki infrastruktur** | 4.5/5.0 |
 | **Ümumi razılıq** | 4.7/5.0 |
+
+#### 📊 **Student Satisfaction Radar Chart**
+
+```mermaid
+quadrantChart
+    title Student Experience Analysis
+    x-axis Low Satisfaction --> High Satisfaction
+    y-axis Low Impact --> High Impact
+    
+    Teaching Quality: [0.94, 0.9]
+    Practical Experience: [0.96, 0.95]
+    Career Support: [0.92, 0.85]
+    Technical Infrastructure: [0.9, 0.8]
+    Industry Connections: [0.88, 0.9]
+    Research Opportunities: [0.85, 0.75]
+    Alumni Network: [0.87, 0.8]
+    International Programs: [0.8, 0.85]
+```
+
+#### 🌍 **Məzunların Coğrafi Paylanması**
+
+```mermaid
+pie title "Graduate Employment by Region (2024)"
+    "Azerbaijan" : 45
+    "Turkey" : 15
+    "EU Countries" : 20
+    "North America" : 12
+    "Other Regions" : 8
+```
+
+#### 🏢 **Industry Distribution**
+
+```mermaid
+pie title "Graduates by Industry Sector"
+    "Technology/Software" : 35
+    "Financial Services" : 25
+    "Consulting" : 15
+    "Healthcare/Pharma" : 10
+    "Government/NGO" : 8
+    "Education/Research" : 7
+```
+
+#### 💰 **Salary Progression Timeline**
+
+```mermaid
+gantt
+    title Career Salary Progression Path
+    dateFormat X
+    axisFormat %s
+    
+    section Entry Level
+    Junior Data Analyst    :0, 2
+    Business Analyst       :0, 2
+    AI Intern             :0, 1.5
+    
+    section Mid Level
+    Senior Data Analyst   :2, 4
+    ML Engineer          :2, 4
+    Product Manager      :2.5, 4.5
+    
+    section Senior Level
+    Data Science Manager :4, 6
+    AI Product Manager   :4.5, 6.5
+    AI Consultant        :4, 6
+    
+    section Executive
+    Chief Data Officer   :6, 8
+    VP of AI            :6.5, 8.5
+    AI Strategy Director :6, 8
+```
 
 ### 🔮 **Gələcək İnkişaf Planları**
 
