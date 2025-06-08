@@ -40,21 +40,7 @@ Proqram aşağıdakı sənədlərə əsaslanır:
 
 ##  Məzunun Səriştələri
 
-### 2.1 Ümumi Səriştələr
-
-Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** yiyələnir:
-
--  **Mürəkkəb məsələləri müstəqil həll etmək** bacarığı
--  **Fəaliyyət metodlarını planlaşdırmaq və təhlil etmək** bacarığı
--  **Problemlərin səbəblərini araşdırmaq** və həll etmək bacarığı
--  **Müvafiq texnologiya və metodları seçmək** bacarığı
--  **Öz fəaliyyətini tənqidi dəyərləndirmək** bacarığı
--  **Azərbaycan və xarici dillərdə kommunikasiya** bacarıqları
--  **Bilik və səriştələri başqalarına ötürmək** bacarığı
--  **Etik davranış qaydalarına uyğun fəaliyyət** göstərmək
--  **Davamlı öyrənmə və peşəkar inkişaf** bacarıqları
-
-### 2.2 Peşə Səriştələri - Biznesdə Süni İntellekt
+### 2.1 Peşə Səriştələri - Biznesdə Süni İntellekt
 
 **Biznesdə Süni İntellekt** ixtisaslaşması üzrə məzunun peşə səriştələri:
 
