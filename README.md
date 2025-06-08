@@ -104,7 +104,7 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 
 ### 3.2 Fənlərin Bölgüsü
 
-####  **Əsas Fənlər (Məcburi)**
+#### 🤖 **İxtisaslaşma Fənləri (Məcburi)**
 
 | **Sıra** | **Fənnin Adı** | **AKTS Krediti** | **Semestr** |
 |----------|----------------|------------------|-------------|
@@ -112,11 +112,6 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 | 2 | **Akademik Yazı və Etika** | 6 | 1 |
 | 3 | **Layihələrin İdarə Olunması** | 6 | 1 |
 | 4 | **Tədqiqat Analitikası** | 6 | 1 |
-
-####  **İxtisaslaşma Fənləri**
-
-| **Sıra** | **Fənnin Adı** | **AKTS Krediti** | **Semestr** |
-|----------|----------------|------------------|-------------|
 | 5 | **Süni İntellektə Giriş və Biznes Tətbiqləri** | 6 | 1 |
 | 6 | **Maşın Öyrənməsi və Data Mining** | 8 | 2 |
 | 7 | **Biznes Analitikası və Big Data** | 8 | 2 |
@@ -127,7 +122,7 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 | 12 | **Fintech və AI Maliyyə Həlləri** | 6 | 3 |
 | 13 | **E-ticarət və AI Marketing** | 6 | 3 |
 
-####  **Seçmə Fənlər** (2-dən seçim)
+#### 🎯 **Seçmə Fənlər** (2-dən seçim)
 
 | **Fənnin Adı** | **AKTS Krediti** | **Semestr** |
 |----------------|------------------|-------------|
