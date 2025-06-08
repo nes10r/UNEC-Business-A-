@@ -63,42 +63,42 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 - AI layihələrinin planlaşdırılması və idarə edilməsi
 - *İstinadlar: MIT Sloan School of Management - "AI Strategy" kursu¹; Harvard Business School - "Digital Strategy and Innovation"²; Stanford Graduate School of Business - "Strategic Management of Innovation"³*
 
-> **Akademik Qeyd**: AI strategiyasının biznes performansına təsiri Brynjolfsson, Rock və Syverson (2021) tərəfindən aparılan NBER tədqiqatında 5-10% məhsuldarlıq artımı ilə sübut edilmişdir⁴. McKinsey Global Institute hesabatına görə, AI strategiyası düzgün tətbiq edən şirkətlər orta hesabla 20% daha yüksək maliyyə performansı göstərir⁵.
+> **Qeyd**: AI strategiyasının biznes performansına təsiri Brynjolfsson, Rock və Syverson (2021) tərəfindən aparılan NBER tədqiqatında 5-10% məhsuldarlıq artımı ilə sübut edilmişdir⁴. McKinsey Global Institute hesabatına görə, AI strategiyası düzgün tətbiq edən şirkətlər orta hesabla 20% daha yüksək maliyyə performansı göstərir⁵.
 
 #### 📊 **Data Science və Analytics**
 - Böyük verilənlərin təhlili və interpretasiyası
 - Maşın öyrənməsi modellərinin biznes məsələlərinə tətbiqi
 - *İstinadlar: Stanford Graduate School of Business - "Data Science for Business" proqramı⁶; MIT Sloan - "Analytics Edge"⁷; Wharton School - "Big Data and Customer Analytics"⁸; UC Berkeley Haas - "Data Science Strategy"⁹*
 
-> **Akademik Qeyd**: Data-driven decision making-in effektivliyi Chen, Chiang və Storey (2012) tərəfindən MIS Quarterly-də nəşr olunan fundamental tədqiqatda ətraflı analiz edilmişdir¹⁰. Harvard Business Review-da McAfee və Brynjolfsson (2012) data-driven şirkətlərin 4% daha yüksək məhsuldarlıq və 6% daha yüksək profit əldə etdiklərini sübut etmişdir¹¹.
+> **Qeyd**: Data-driven decision making-in effektivliyi Chen, Chiang və Storey (2012) tərəfindən MIS Quarterly-də nəşr olunan fundamental tədqiqatda ətraflı analiz edilmişdir¹⁰. Harvard Business Review-da McAfee və Brynjolfsson (2012) data-driven şirkətlərin 4% daha yüksək məhsuldarlıq və 6% daha yüksək profit əldə etdiklərini sübut etmişdir¹¹.
 
 #### 🔮 **Proqnozlaşdırma və Qərar Dəstəyi**
 - AI əsaslı proqnozlaşdırma sistemlərinin qurulması
 - İntelligent qərar dəstək sistemlərinin inkişafı
 - *İstinadlar: Wharton School - "Predictive Analytics" kursu¹²; INSEAD - "Decision Sciences"¹³; London Business School - "Analytics and Data Science"¹⁴; Chicago Booth - "Machine Learning for Business"¹⁵*
 
-> **Akademik Qeyd**: Predictive analytics sahəsində Shmueli və Koppius (2011) Information Systems Research jurnalında nəşr etdikləri işdə prediction və explanation arasındakı fundamental fərqi müəyyənləşdirmişlər¹⁶. Makridakis, Spiliotis və Assimakopoulos (2018) International Journal of Forecasting-də M4 Competition nəticələrində ML metodlarının üstünlüklərini təsdiq etmişlər¹⁷.
+> **Qeyd**: Predictive analytics sahəsində Shmueli və Koppius (2011) Information Systems Research jurnalında nəşr etdikləri işdə prediction və explanation arasındakı fundamental fərqi müəyyənləşdirmişlər¹⁶. Makridakis, Spiliotis və Assimakopoulos (2018) International Journal of Forecasting-də M4 Competition nəticələrində ML metodlarının üstünlüklərini təsdiq etmişlər¹⁷.
 
 #### 🏢 **Biznes Proseslərinin Avtomatlaşdırılması**
 - RPA (Robotic Process Automation) həllərinin tətbiqi
 - İş proseslərinin AI ilə optimallaşdırılması
 - *İstinadlar: INSEAD - "Digital Transformation" proqramı¹⁸; MIT Sloan - "Artificial Intelligence: Strategy and Leadership"¹⁹; Stanford HAI - "Human-AI Collaboration"²⁰; Oxford Saïd Business School - "Digital Economy"²¹*
 
-> **Akademik Qeyd**: Business Process Automation sahəsində Hammer və Champy (1993) klassik "Reengineering the Corporation" əsərindən sonra, Lacity və Willcocks (2016) RPA-nın təsirini Outsourcing Unit Working Research Paper-də ətraflı təhlil etmişlər²². Deloitte 2020 hesabatına görə, RPA tətbiqi orta hesabla 30-50% xərc azalması və 25-80% proses sürətlənməsi təmin edir²³.
+> **Qeyd**: Business Process Automation sahəsində Hammer və Champy (1993) klassik "Reengineering the Corporation" əsərindən sonra, Lacity və Willcocks (2016) RPA-nın təsirini Outsourcing Unit Working Research Paper-də ətraflı təhlil etmişlər²². Deloitte 2020 hesabatına görə, RPA tətbiqi orta hesabla 30-50% xərc azalması və 25-80% proses sürətlənməsi təmin edir²³.
 
 #### ⚖️ **AI Etikası və Tənzimləmə**
 - AI sistemlərində etik məsələlərin idarə edilməsi
 - Qanunvericilik və tənzimləmə tələblərinin təmin edilməsi
 - *İstinadlar: Harvard Business School - "AI Ethics" kursu²⁴; Stanford HAI - "AI Ethics and Society"²⁵; MIT - "The Ethics of AI"²⁶; Oxford Internet Institute - "AI Governance"²⁷; Cambridge Judge Business School - "Technology Policy"²⁸*
 
-> **Akademik Qeyd**: AI etikası sahəsində Russell (2019) "Human Compatible" əsərində alignment problem-i müəyyənləşdirmişdir²⁹. European Journal of Information Systems-də Winfield və Jirotka (2018) Ethical AI governance framework-ü təqdim etmişlər³⁰. IEEE Standards Association-un "Ethically Aligned Design" sənədi bu sahədə əsas təlimat hesab olunur³¹.
+> **Qeyd**: AI etikası sahəsində Russell (2019) "Human Compatible" əsərində alignment problem-i müəyyənləşdirmişdir²⁹. European Journal of Information Systems-də Winfield və Jirotka (2018) Ethical AI governance framework-ü təqdim etmişlər³⁰. IEEE Standards Association-un "Ethically Aligned Design" sənədi bu sahədə əsas təlimat hesab olunur³¹.
 
 #### 💼 **AI Biznes Modelləri**
 - AI əsaslı biznes modellərinin yaradılması
 - Rəqəmsal transformasiya strategiyalarının hazırlanması
 - *İstinadlar: London Business School - "Digital Innovation" proqramı³²; MIT Sloan - "Blockchain Technologies"³³; Harvard Business School - "Digital Business Strategy"³⁴; IESE - "Digital Transformation"³⁵; HEC Paris - "Innovation and Digital Transformation"³⁶*
 
-> **Akademik Qeyd**: AI-driven business model innovation Zott və Amit (2010) Strategic Management Journal-da təqdim etdikləri Business Model Design framework-ü əsasında inkişaf etmişdir³⁷. Teece (2010) Long Range Planning jurnalında dynamic capabilities nəzəriyyəsini AI kontekstində tətbiq etmişdir³⁸. BCG 2021 tədqiqatında AI-native şirkətlərin 2.3 dəfə daha sürətli böyüdüklərini sübut etmişdir³⁹.
+> **Qeyd**: AI-driven business model innovation Zott və Amit (2010) Strategic Management Journal-da təqdim etdikləri Business Model Design framework-ü əsasında inkişaf etmişdir³⁷. Teece (2010) Long Range Planning jurnalında dynamic capabilities nəzəriyyəsini AI kontekstində tətbiq etmişdir³⁸. BCG 2021 tədqiqatında AI-native şirkətlərin 2.3 dəfə daha sürətli böyüdüklərini sübut etmişdir³⁹.
 
 ---
 
@@ -476,55 +476,6 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 | **Karyera dəstəyi** | 4.6/5.0 |
 | **Texniki infrastruktur** | 4.5/5.0 |
 | **Ümumi razılıq** | 4.7/5.0 |
-
-### 🌟 **Mezun Success Stories**
-
-#### 💡 **Nümunə Karyera Yolları**
-
-**Məzun 1: Leyla Məmmədova**
-- **Məzun ili**: 2023
-- **Hazırkı vəzifə**: AI Product Manager at Google Cloud
-- **Karyera yolu**: Junior Data Analyst → Senior ML Engineer → AI Product Manager
-- **Notable achievement**: Google Cloud AI platformunda Azərbaycan dili dəstəyinin əlavə edilməsi
-
-**Məzun 2: Rəşad Əliyev**
-- **Məzun ili**: 2022
-- **Hazırkı vəzifə**: Founder & CEO of AzeTech AI
-- **Startup**: Healthcare AI solution for remote patient monitoring
-- **Funding**: $2M Series A round completed
-- **Impact**: 10,000+ patients monitored through AI platform
-
-**Məzun 3: Nigar Qasımova**
-- **Məzun ili**: 2023
-- **Hazırkı vəzifə**: Senior Data Scientist at McKinsey & Company
-- **Specialization**: Financial services AI consulting
-- **Achievement**: Led AI transformation project for major European bank
-
-### 🎪 **Tədbirlər və Fəaliyyətlər**
-
-#### 🏆 **İllik Konfranslar**
-
-**UNEC AI Business Summit**
-- **Tarix**: Hər il Noyabr ayında
-- **İştirakçılar**: 500+ beynəlxalq mütəxəssis
-- **Məqsəd**: AI-nin biznes dünyasındakı son trendləri
-- **Speakers**: Google, Microsoft, IBM rəhbərləri
-
-**Student AI Innovation Challenge**
-- **Format**: 48 saatlıq hackathon
-- **Mükafat fondu**: $25,000
-- **Kateqoriyalar**: 
-  * Best AI Business Solution
-  * Most Innovative Use of AI
-  * Best Social Impact AI Project
-
-#### 📚 **Seminar və Workshop Seriyası**
-
-**Aylıq Master Classes**:
-- **AI Ethics in Practice** - Harvard Business School professor
-- **Deep Learning for Business** - Stanford AI Lab researcher
-- **Venture Capital in AI** - Silicon Valley investors
-- **AI Implementation Strategies** - Fortune 500 CIOs
 
 ### 🔮 **Gələcək İnkişaf Planları**
 
