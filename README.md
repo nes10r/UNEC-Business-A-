@@ -91,7 +91,7 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 - Qanunvericilik və tənzimləmə tələblərinin təmin edilməsi
 - *İstinadlar: Harvard Business School - "AI Ethics" kursu²⁴; Stanford HAI - "AI Ethics and Society"²⁵; MIT - "The Ethics of AI"²⁶; Oxford Internet Institute - "AI Governance"²⁷; Cambridge Judge Business School - "Technology Policy"²⁸*
 
-> **Qeyd**: AI etikası sahəsində Russell (2019) "Human Compatible" əsərindən alignment problem-i müəyyənləşdirmişdir²⁹. European Journal of Information Systems-də Winfield və Jirotka (2018) Ethical AI governance framework-ü təqdim etmişlər³⁰. IEEE Standards Association-un "Ethically Aligned Design" sənədi bu sahədə əsas təlimat hesab olunur³¹.
+> **Qeyd**: AI etikası sahəsində Russell (2019) "Human Compatible" əsərində alignment problem-i müəyyənləşdirmişdir²⁹. European Journal of Information Systems-də Winfield və Jirotka (2018) Ethical AI governance framework-ü təqdim etmişlər³⁰. IEEE Standards Association-un "Ethically Aligned Design" sənədi bu sahədə əsas təlimat hesab olunur³¹.
 
 #### 💼 **AI Biznes Modelləri**
 - AI əsaslı biznes modellərinin yaradılması
@@ -592,20 +592,6 @@ sankey-beta
 | **Beynəlxalq təcrübə** | 40% | 30% |
 | **Startup quranlar** | 15% | 10% |
 
-#### 📈 **Performance Trends Visualization**
-
-```mermaid
-xychart-beta
-    title "Program Performance Trends (2020-2024)"
-    x-axis [2020, 2021, 2022, 2023, 2024]
-    y-axis "Percentage" 0 --> 100
-    
-    line "Employment Rate" [85, 87, 90, 93, 95]
-    line "International Experience" [25, 28, 32, 37, 40]
-    line "PhD Continuation" [18, 20, 22, 24, 25]
-    line "Startup Formation" [8, 10, 12, 14, 15]
-```
-
 #### 🎯 **Tələbə Razılığı (2024 Sorğusu)**
 
 | **Kateqoriya** | **Razılıq dərəcəsi** |
@@ -615,76 +601,6 @@ xychart-beta
 | **Karyera dəstəyi** | 4.6/5.0 |
 | **Texniki infrastruktur** | 4.5/5.0 |
 | **Ümumi razılıq** | 4.7/5.0 |
-
-#### 📊 **Student Satisfaction Radar Chart**
-
-```mermaid
-quadrantChart
-    title Student Experience Analysis
-    x-axis Low Satisfaction --> High Satisfaction
-    y-axis Low Impact --> High Impact
-    
-    Teaching Quality: [0.94, 0.9]
-    Practical Experience: [0.96, 0.95]
-    Career Support: [0.92, 0.85]
-    Technical Infrastructure: [0.9, 0.8]
-    Industry Connections: [0.88, 0.9]
-    Research Opportunities: [0.85, 0.75]
-    Alumni Network: [0.87, 0.8]
-    International Programs: [0.8, 0.85]
-```
-
-#### 🌍 **Məzunların Coğrafi Paylanması**
-
-```mermaid
-pie title "Graduate Employment by Region (2024)"
-    "Azerbaijan" : 45
-    "Turkey" : 15
-    "EU Countries" : 20
-    "North America" : 12
-    "Other Regions" : 8
-```
-
-#### 🏢 **Industry Distribution**
-
-```mermaid
-pie title "Graduates by Industry Sector"
-    "Technology/Software" : 35
-    "Financial Services" : 25
-    "Consulting" : 15
-    "Healthcare/Pharma" : 10
-    "Government/NGO" : 8
-    "Education/Research" : 7
-```
-
-#### 💰 **Salary Progression Timeline**
-
-```mermaid
-gantt
-    title Career Salary Progression Path
-    dateFormat X
-    axisFormat %s
-    
-    section Entry Level
-    Junior Data Analyst    :0, 2
-    Business Analyst       :0, 2
-    AI Intern             :0, 1.5
-    
-    section Mid Level
-    Senior Data Analyst   :2, 4
-    ML Engineer          :2, 4
-    Product Manager      :2.5, 4.5
-    
-    section Senior Level
-    Data Science Manager :4, 6
-    AI Product Manager   :4.5, 6.5
-    AI Consultant        :4, 6
-    
-    section Executive
-    Chief Data Officer   :6, 8
-    VP of AI            :6.5, 8.5
-    AI Strategy Director :6, 8
-```
 
 ### 🔮 **Gələcək İnkişaf Planları**
 
