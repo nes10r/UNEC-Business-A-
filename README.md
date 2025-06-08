@@ -114,132 +114,7 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 | **Həftəlik yük** | 45 akademik saat |
 | **Auditoriya saatları** | 12-16 akademik saat |
 
-### 3.2 📊 **İnteraktiv Kurs Xəritəsi**
-
-```mermaid
-flowchart TD
-    A[🎓 Giriş Səviyyə] --> B[Semestr 1]
-    B --> C[Semestr 2]
-    C --> D[Semestr 3]
-    D --> E[Semestr 4]
-    E --> F[🎯 Məzun]
-    
-    B --> B1[📚 Tədqiqat Metodları<br/>6 AKTS]
-    B --> B2[✍️ Akademik Yazı<br/>6 AKTS]
-    B --> B3[📋 Layihə İdarəsi<br/>6 AKTS]
-    B --> B4[📊 Tədqiqat Analitikası<br/>6 AKTS]
-    B --> B5[🤖 AI Giriş<br/>6 AKTS]
-    
-    C --> C1[🧠 Machine Learning<br/>8 AKTS]
-    C --> C2[📈 Big Data Analytics<br/>8 AKTS]
-    C --> C3[⚡ AI Strategiya<br/>6 AKTS]
-    C --> C4[🔮 Proqnozlaşdırma<br/>6 AKTS]
-    
-    D --> D1[🏢 Avtomatlaşdırma<br/>6 AKTS]
-    D --> D2[⚖️ AI Etikası<br/>4 AKTS]
-    D --> D3[💳 Fintech AI<br/>6 AKTS]
-    D --> D4[🛒 E-commerce AI<br/>6 AKTS]
-    D --> D5[👁️ Seçmə Fənlər<br/>8 AKTS]
-    D --> D6[🧪 Elmi-Pedaqoji Təcrübə<br/>6 AKTS]
-    
-    E --> E1[🔬 Elmi Tədqiqat<br/>6 AKTS]
-    E --> E2[📝 Dissertasiya<br/>18 AKTS]
-    
-    F --> F1[💼 AI Product Manager]
-    F --> F2[📊 Data Science Manager]
-    F --> F3[🚀 AI Entrepreneur]
-    F --> F4[🎓 PhD Studies]
-    
-    style A fill:#e1f5fe
-    style F fill:#c8e6c9
-    style B fill:#fff3e0
-    style C fill:#fce4ec
-    style D fill:#f3e5f5
-    style E fill:#e8f5e8
-```
-
-### 3.3 🎯 **Səriştələrin İnkişaf Xəritəsi**
-
-```mermaid
-graph LR
-    A[Başlanğıc<br/>Səviyyə] --> B[Əsas<br/>Səviyyə]
-    B --> C[Təcrübəli<br/>Səviyyə]
-    C --> D[Ekspert<br/>Səviyyə]
-    
-    A --> A1[📚 Fundamental<br/>Bilik]
-    A --> A2[🔤 Teminologiya]
-    A --> A3[💻 Əsas Alətlər]
-    
-    B --> B1[🧮 Statistika]
-    B --> B2[🐍 Python/R]
-    B --> B3[📊 Data Viz]
-    B --> B4[🤖 ML Alqoritmləri]
-    
-    C --> C1[🧠 Deep Learning]
-    C --> C2[☁️ Cloud Platforms]
-    C --> C3[📈 Biznes Analitika]
-    C --> C4[🏗️ AI Arxitektura]
-    
-    D --> D1[🎯 AI Strategiya]
-    D --> D2[👥 Team Leadership]
-    D --> D3[💼 Biznes Development]
-    D --> D4[🌍 Industry Expert]
-    
-    style A fill:#ffcdd2
-    style B fill:#fff9c4
-    style C fill:#dcedc8
-    style D fill:#c8e6c9
-```
-
-### 3.4 🛠️ **AI Alətləri Müqayisə Matrisi**
-
-```mermaid
-quadrantChart
-    title AI Tools Effectiveness vs Learning Curve
-    x-axis Low Learning Curve --> High Learning Curve
-    y-axis Low Effectiveness --> High Effectiveness
-    
-    Tableau: [0.2, 0.7]
-    Power BI: [0.25, 0.65]
-    Excel: [0.1, 0.4]
-    Python: [0.6, 0.9]
-    R: [0.7, 0.85]
-    TensorFlow: [0.8, 0.95]
-    PyTorch: [0.75, 0.9]
-    AutoML: [0.3, 0.6]
-    AWS SageMaker: [0.5, 0.8]
-    Google Colab: [0.35, 0.7]
-```
-
-### 3.5 📈 **Karyera İnkişaf Yolu**
-
-```mermaid
-sankey-beta
-    Student,Junior Data Analyst,15
-    Student,Business Analyst,10
-    Student,AI Intern,8
-    
-    Junior Data Analyst,Senior Data Analyst,12
-    Junior Data Analyst,ML Engineer,8
-    Business Analyst,Business Intelligence,7
-    Business Analyst,Product Manager,6
-    AI Intern,AI Specialist,5
-    
-    Senior Data Analyst,Data Science Manager,8
-    ML Engineer,Senior ML Engineer,6
-    ML Engineer,AI Research Scientist,4
-    Business Intelligence,BI Manager,5
-    Product Manager,AI Product Manager,4
-    AI Specialist,AI Consultant,3
-    
-    Data Science Manager,Chief Data Officer,3
-    Senior ML Engineer,AI Team Lead,4
-    AI Research Scientist,Principal Scientist,2
-    AI Product Manager,VP of AI,2
-    AI Consultant,AI Strategy Director,2
-```
-
-### 3.6 Fənlərin Bölgüsü
+### 3.2 Fənlərin Bölgüsü
 
 #### 🤖 **İxtisaslaşma Fənləri (Məcburi)**
 
@@ -268,7 +143,7 @@ sankey-beta
 | **IoT və Smart Business Solutions** | 4 | 3 |
 | **Blockchain və AI İnteqrasiyası** | 4 | 3 |
 
-####  **Təcrübə və Dissertasiya**
+#### 🏢 **Təcrübə və Dissertasiya**
 
 | **Fəaliyyət** | **AKTS Krediti** | **Semestr** |
 |---------------|------------------|-------------|
