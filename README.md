@@ -126,7 +126,7 @@ Təhsil proqramının sonunda məzun aşağıdakı **ümumi səriştələrə** y
 
 | **Fənnin Adı** | **AKTS Krediti** | **Semestr** |
 |----------------|------------------|-------------|
-| **Kompüter Görmə və Biznes Tətbiqləri** | 4 | 3 |
+| **Kompüter Vision və Biznes Tətbiqləri** | 4 | 3 |
 | **Təbii Dil Emalı və Chatbot Həlləri** | 4 | 3 |
 | **IoT və Smart Business Solutions** | 4 | 3 |
 | **Blockchain və AI İnteqrasiyası** | 4 | 3 |
