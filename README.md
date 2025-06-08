@@ -44,42 +44,42 @@ Proqram aşağıdakı sənədlərə əsaslanır:
 
 **Biznesdə Süni İntellekt** ixtisaslaşması üzrə məzunun peşə səriştələri:
 
-#### 🤖 **AI Strategiyası və İdarəetmə**
+####  **AI Strategiyası və İdarəetmə**
 - Biznes strategiyalarında AI həllərinin inteqrasiyası
 - AI layihələrinin planlaşdırılması və idarə edilməsi
 - *İstinadlar: MIT Sloan School of Management - "AI Strategy" kursu¹; Harvard Business School - "Digital Strategy and Innovation"²; Stanford Graduate School of Business - "Strategic Management of Innovation"³*
 
 > **Qeyd**: AI strategiyasının biznes performansına təsiri Brynjolfsson, Rock və Syverson (2021) tərəfindən aparılan NBER tədqiqatında 5-10% məhsuldarlıq artımı ilə sübut edilmişdir⁴. McKinsey Global Institute hesabatına görə, AI strategiyası düzgün tətbiq edən şirkətlər orta hesabla 20% daha yüksək maliyyə performansı göstərir⁵.
 
-#### 📊 **Data Science və Analytics**
+####  **Data Science və Analytics**
 - Böyük verilənlərin təhlili və interpretasiyası
 - Maşın öyrənməsi modellərinin biznes məsələlərinə tətbiqi
 - *İstinadlar: Stanford Graduate School of Business - "Data Science for Business" proqramı⁶; MIT Sloan - "Analytics Edge"⁷; Wharton School - "Big Data and Customer Analytics"⁸; UC Berkeley Haas - "Data Science Strategy"⁹*
 
 > **Qeyd**: Data-driven decision making-in effektivliyi Chen, Chiang və Storey (2012) tərəfindən MIS Quarterly-də nəşr olunan fundamental tədqiqatda ətraflı analiz edilmişdir¹⁰. Harvard Business Review-da McAfee və Brynjolfsson (2012) data-driven şirkətlərin 4% daha yüksək məhsuldarlıq və 6% daha yüksək profit əldə etdiklərini sübut etmişdir¹¹.
 
-#### 🔮 **Proqnozlaşdırma və Qərar Dəstəyi**
+#### **Proqnozlaşdırma və Qərar Dəstəyi**
 - AI əsaslı proqnozlaşdırma sistemlərinin qurulması
 - İntelligent qərar dəstək sistemlərinin inkişafı
 - *İstinadlar: Wharton School - "Predictive Analytics" kursu¹²; INSEAD - "Decision Sciences"¹³; London Business School - "Analytics and Data Science"¹⁴; Chicago Booth - "Machine Learning for Business"¹⁵*
 
 > **Qeyd**: Predictive analytics sahəsində Shmueli və Koppius (2011) Information Systems Research jurnalında nəşr etdikləri işdə prediction və explanation arasındakı fundamental fərqi müəyyənləşdirmişlər¹⁶. Makridakis, Spiliotis və Assimakopoulos (2018) International Journal of Forecasting-də M4 Competition nəticələrində ML metodlarının üstünlüklərini təsdiq etmişlər¹⁷.
 
-#### 🏢 **Biznes Proseslərinin Avtomatlaşdırılması**
+#### **Biznes Proseslərinin Avtomatlaşdırılması**
 - RPA (Robotic Process Automation) həllərinin tətbiqi
 - İş proseslərinin AI ilə optimallaşdırılması
 - *İstinadlar: INSEAD - "Digital Transformation" proqramı¹⁸; MIT Sloan - "Artificial Intelligence: Strategy and Leadership"¹⁹; Stanford HAI - "Human-AI Collaboration"²⁰; Oxford Saïd Business School - "Digital Economy"²¹*
 
 > **Qeyd**: Business Process Automation sahəsində Hammer və Champy (1993) klassik "Reengineering the Corporation" əsərindən sonra, Lacity və Willcocks (2016) RPA-nın təsirini Outsourcing Unit Working Research Paper-də ətraflı təhlil etmişlər²². Deloitte 2020 hesabatına görə, RPA tətbiqi orta hesabla 30-50% xərc azalması və 25-80% proses sürətlənməsi təmin edir²³.
 
-#### ⚖️ **AI Etikası və Tənzimləmə**
+#### **AI Etikası və Tənzimləmə**
 - AI sistemlərində etik məsələlərin idarə edilməsi
 - Qanunvericilik və tənzimləmə tələblərinin təmin edilməsi
 - *İstinadlar: Harvard Business School - "AI Ethics" kursu²⁴; Stanford HAI - "AI Ethics and Society"²⁵; MIT - "The Ethics of AI"²⁶; Oxford Internet Institute - "AI Governance"²⁷; Cambridge Judge Business School - "Technology Policy"²⁸*
 
 > **Qeyd**: AI etikası sahəsində Russell (2019) "Human Compatible" əsərində alignment problem-i müəyyənləşdirmişdir²⁹. European Journal of Information Systems-də Winfield və Jirotka (2018) Ethical AI governance framework-ü təqdim etmişlər³⁰. IEEE Standards Association-un "Ethically Aligned Design" sənədi bu sahədə əsas təlimat hesab olunur³¹.
 
-#### 💼 **AI Biznes Modelləri**
+#### **AI Biznes Modelləri**
 - AI əsaslı biznes modellərinin yaradılması
 - Rəqəmsal transformasiya strategiyalarının hazırlanması
 - *İstinadlar: London Business School - "Digital Innovation" proqramı³²; MIT Sloan - "Blockchain Technologies"³³; Harvard Business School - "Digital Business Strategy"³⁴; IESE - "Digital Transformation"³⁵; HEC Paris - "Innovation and Digital Transformation"³⁶*
